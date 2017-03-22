@@ -3,9 +3,10 @@ pico-8 #tweetjam entries. ongoing.
 
 <table>
 	<tr>
-		<td> cart </td> <td> code </td> <td> gif </td>
+		<td> idx </td> <td> cart </td> <td> code </td> <td> gif </td>
 	</tr>
 	<tr>
+		<td> 001 </td> 
 		<td> <img src="https://github.com/mattleblanc/picotweets/blob/master/001/001.png?raw=true"> </td>
 		<td><pre lang="lua">
 				r=64w=127x=r y=r
