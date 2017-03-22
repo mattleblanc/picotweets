@@ -3,10 +3,10 @@ pico-8 #tweetjam entries. ongoing.
 
 <table>
 	<tr>
-		<td> cart </td> <td> code >
+		<td> cart </td> <td> code </td> <td> gif </td>
 	</tr>
 	<tr>
-		<td> <img src="https://github.com/mattleblanc/picotweets/blob/master/001/001.gif?raw=true"> </td>
+		<td> <img src="https://github.com/mattleblanc/picotweets/blob/master/001/001.png?raw=true"> </td>
 		<td><pre lang="lua">
 				r=64w=127x=r y=r
 				while 1 do
@@ -17,6 +17,7 @@ pico-8 #tweetjam entries. ongoing.
 				flip()end 
 			</pre>
 		</td>
+		<td> <img src="https://github.com/mattleblanc/picotweets/blob/master/001/001.gif?raw=true"> </td>
 	</tr>
 </table>
 
