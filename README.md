@@ -20,5 +20,3 @@ pico-8 #tweetjam entries. ongoing.
 		<td> <img src="https://github.com/mattleblanc/picotweets/blob/master/001/001.gif?raw=true"> </td>
 	</tr>
 </table>
-
-<img src="https://github.com/mattleblanc/picotweets/blob/master/001/001.gif?raw=true">
