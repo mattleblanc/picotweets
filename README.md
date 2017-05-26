@@ -33,4 +33,16 @@ print("#pico8 #tweetjam",9,9)
 		</td>
 		<td> <img src="https://github.com/mattleblanc/picotweets/blob/master/002/002.gif?raw=true"> </td>
 	</tr>
+	<tr>
+		<td> 003 </td> 
+		<td> <img src="https://github.com/mattleblanc/picotweets/blob/master/003/003.png?raw=true"> </td>
+		<td><pre lang="lua">
+t=127l=t while l do
+cls()for x=0,l do for y=0,l do
+if((x%9+y%9==0))line(x,y,x+cos(sin(t*y))*9,y+cos(sin(x*t))*9)
+end end t+=1/9999 flip()end
+			</pre>
+		</td>
+		<td> <img src="https://github.com/mattleblanc/picotweets/blob/master/003/003.gif?raw=true"> </td>
+	</tr>
 </table>
